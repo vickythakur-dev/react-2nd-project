@@ -4,7 +4,7 @@
 
 A responsive Contact Us page built using React and CSS.
 
-## Project Screenshot
+## Project preview
 
 ![Contact Us Page](./public/images/Screenshot%202026-10-22%20181221.png)
 =======
